@@ -1,3 +1,5 @@
+import './WelcomePage.scss'
+
 function WelcomePage() {
 
     return (
